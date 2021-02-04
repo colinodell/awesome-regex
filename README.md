@@ -30,6 +30,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Articles](#articles)
 - [Books](#books)
 - [Benchmarks](#benchmarks)
+- [Cheat Sheets](#cheet-sheats)
 
 ## Documentation
 
@@ -207,6 +208,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [MIT Cheat Sheet](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
 - [Java Cheat Sheet](https://zeroturnaround.com/rebellabs/java-regular-expressions-cheat-sheet/)
 - [JavaScript Cheat Sheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+- [Regex Cheat Sheet Mug](https://www.moderngeekware.com/products/regex-cheat-sheet-mug)
 
 # Other awesome lists
 
